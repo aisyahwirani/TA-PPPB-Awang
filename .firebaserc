@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "ta-pppb",
+    "TA-PPPB": "ta-pppb"
+  },
+  "targets": {},
+  "etags": {}
+}
