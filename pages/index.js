@@ -6,7 +6,7 @@ import Footer from "./components/Footer";
 export default function Home() {
   return (
     <div>
-      <Meta title="Foody" />
+      <Meta title="Resep Kostan" />
 
       <Header />
 
