@@ -20,7 +20,7 @@ export default function Meta(props) {
             <link rel="icon" href="/favicon.ico" />
             <link rel="manifest" href="/manifest.json" />
             <meta name="msapplication-TileColor" content="#ffffff" />
-            <meta name="msapplication-TileImage" content="/assets/ms-icon-144x144.png" />
+            <meta name="msapplication-TileImage" content="/assets/icon.png" />
             <meta name="theme-color" content="#ffffff" />
             <meta name="description" content="Browse authentic culinaries." />
         </Head>
