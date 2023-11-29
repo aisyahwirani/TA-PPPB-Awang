@@ -10,7 +10,7 @@ export default function ItemCard(props) {
           className="block relative h-48 rounded overflow-hidden"
         >
           <Image
-            alt="thumbnail"
+            alt={data.name ?? ''}
             className="object-cover object-center w-full h-full block"
             layout="fill"
             objectFit="cover"
