@@ -5,7 +5,7 @@ const options = {
     method: 'GET',
     headers: {
         'X-RapidAPI-Key': NEXT_PUBLIC_RAPID_API_KEY,
-        'X-RapidAPI-Host': 'tasty.p.rapidapi.com'
+        'X-RapidAPI-Host': NEXT_PUBLIC_RAPID_API_HOST
     }
 };
 
