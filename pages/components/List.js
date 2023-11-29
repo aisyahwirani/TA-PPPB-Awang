@@ -4,7 +4,7 @@ import ItemCard from './ItemCard';
 const options = {
     method: 'GET',
     headers: {
-        'X-RapidAPI-Key': '31d22560a8msh282518b57b44fd5p1800f2jsn94a0d5202f9c',
+        'X-RapidAPI-Key': '465186d96dmsh3736d2e92a3d4c5p1351d8jsn29705aea854e',
         'X-RapidAPI-Host': 'tasty.p.rapidapi.com'
     }
 };
