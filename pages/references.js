@@ -6,7 +6,7 @@ import Link from "next/link";
 export default function References() {
   return (
     <div>
-      <Meta title="Foody: References" />
+      <Meta title="Resep Kostan: References" />
 
       <Header />
 
