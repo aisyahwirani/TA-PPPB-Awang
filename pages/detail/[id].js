@@ -31,7 +31,7 @@ export default function Detail() {
 
   return (
     <div>
-      <Meta title={`Foody: ${data.name ?? ''}`} />
+      <Meta title={`Resep Kostan: ${data.name ?? ''}`} />
 
       <Header />
 
