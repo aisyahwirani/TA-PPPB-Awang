@@ -9,7 +9,7 @@ import Footer from "../components/Footer";
 const options = {
   method: "GET",
   headers: {
-    'X-RapidAPI-Key': '9287a62e9amsh2a60a45cbc7b513p18c577jsn2dab0fe574a4',
+    'X-RapidAPI-Key': '2e342f6b22msh34cbf566101c692p14e252jsn5b7768b641e8',
     'X-RapidAPI-Host': 'tasty.p.rapidapi.com',
   },
 };
